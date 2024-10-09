@@ -49,4 +49,4 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: cutsula/TicketTrek-UASpbw:latest
+          tags: cutsula/praktikum_popl5:latest
