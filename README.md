@@ -13,7 +13,7 @@ Kelompok 23
 
 Nama anggota :
 1. Cut Sula Fhatia Rahma (2208107010048)
-2. Dinda Maharani (2208107010081)
+2. Cut Mardilla Agustine (2208107010083)
 
 # laravel-TicketTrek
 
